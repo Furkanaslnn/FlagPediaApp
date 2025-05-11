@@ -1,4 +1,4 @@
-# 🇺🇳 FlagPedi - Kıta & Ülke Bilgileri ve Bayrak Tahmin Oyunu
+# FlagPedi - Kıta & Ülke Bilgileri ve Bayrak Tahmin Oyunu
 
 **FlagPedi**, dünya üzerindeki kıta ve ülkeleri keşfetmeyi sağlayan, aynı zamanda bayrakları ülkelere eşleştirerek coğrafi bilginizi test edebileceğiniz mobil bir uygulamadır. Uygulama, **React Native + Expo** altyapısı kullanılarak platform bağımsız şekilde geliştirilmiştir.
 
