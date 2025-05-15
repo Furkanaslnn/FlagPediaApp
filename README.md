@@ -2,6 +2,14 @@
 
 **FlagPedi**, dünya üzerindeki kıta ve ülkeleri keşfetmeyi sağlayan, aynı zamanda bayrakları ülkelere eşleştirerek coğrafi bilginizi test edebileceğiniz mobil bir uygulamadır. Uygulama, **React Native + Expo** altyapısı kullanılarak platform bağımsız şekilde geliştirilmiştir.
 
+## 🚀 Yayın Durumu
+
+Uygulama şu anda **Google Play** üzerinden yayında: [Google Play](https://play.google.com/store/apps/details?id=dev.expo.flagpedia&hl=tr)
+
+## 📸 Ekran Görüntüsü
+
+![FlagPedi Ana Ekran](./image.png)
+
 ## 📱 Özellikler
 
 ### 🌍 Kıta & Ülke Keşfet Modu
@@ -31,11 +39,3 @@
 - **Axios / Fetch API** (veri alma)
 - **Expo AV** (ses oynatma)
 - **Context API / AsyncStorage** (durum ve skor yönetimi)
-
-## 🚀 Yayın Durumu
-
-Uygulama şu anda **Google Play** üzerinden yayında: [Google Play](https://play.google.com/store/apps/details?id=dev.expo.flagpedia&hl=tr)
-
-## 📸 Ekran Görüntüsü
-
-![FlagPedi Ana Ekran](./image.png)
