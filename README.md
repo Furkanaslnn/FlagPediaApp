@@ -34,7 +34,7 @@
 
 ## 🚀 Yayın Durumu
 
-Uygulama şu anda **Google Play** üzerinden yayında: [Google Play](https://play.google.com/store/search?q=flagpedia&c=apps&hl=tr)
+Uygulama şu anda **Google Play** üzerinden yayında: [Google Play](https://play.google.com/store/apps/details?id=dev.expo.flagpedia&hl=tr)
 
 ## 📸 Ekran Görüntüsü
 
